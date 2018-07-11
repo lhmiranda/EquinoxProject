@@ -1,4 +1,4 @@
-## A fork of the [Equinox Project](https://github.com/EduardoPires/EquinoxProject).
+# A fork of the [Equinox Project](https://github.com/EduardoPires/EquinoxProject).
 
 ## Technologies implemented:
 
